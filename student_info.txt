@@ -2,3 +2,4 @@ Student Name: Jhon Lloyd B. Baranquil
 Student ID: 2025-01-19937
 Section: BSCS 2B
 Course: CS 106 - App Dev
+Topic: Git Bash Fundamentals
